@@ -6,7 +6,7 @@ function Header() {
         <div className='name'>
         <h2>STEP UP YOUR</h2>
         <h1><span>FITNESS</span>WITH US</h1>
-        <p className='details'>Build Your Body And Fitness With Omkar Dilwale</p>
+        <p className='details'>Build Your Body And Fitness With Rushikesh Dilwale</p>
         <div className='header-btns'>
             <a href='#' className='header-btn'>JOIN US</a>
         </div>
